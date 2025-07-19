@@ -1,0 +1,260 @@
+[
+    {
+        "name": "Fuse",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 6
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 5
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 3
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 3
+            },
+            {
+                "duration": 40,
+                "x": 0,
+                "y": 2
+            },
+            {
+                "duration": 40,
+                "x": 0,
+                "y": 2
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "A"
+            ]
+        }
+    },
+    {
+        "name": "Glaz",
+        "sequence": [
+            {
+                "duration": 60,
+                "x": 0,
+                "y": 0
+            },
+            {
+                "duration": 20,
+                "x": 0,
+                "y": 0
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "B"
+            ]
+        }
+    },
+    {
+        "name": "Maverick",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 3
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 2
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "X"
+            ]
+        }
+    },
+    {
+        "name": "Ace",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 6
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 5
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 3
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "Y"
+            ]
+        }
+    },
+    {
+        "name": "Flores",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 5
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 40,
+                "x": 0,
+                "y": 3
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "DPAD_UP"
+            ]
+        }
+    },
+    {
+        "name": "Zero",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 5
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 40,
+                "x": 0,
+                "y": 3
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "DPAD_DOWN"
+            ]
+        }
+    },
+    {
+        "name": "Mozzie",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 5
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 40,
+                "x": 0,
+                "y": 3
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "DPAD_LEFT"
+            ]
+        }
+    },
+    {
+        "name": "Doc",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 3
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "DPAD_RIGHT"
+            ]
+        }
+    },
+    {
+        "name": "Mute",
+        "sequence": [
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 30,
+                "x": 0,
+                "y": 4
+            },
+            {
+                "duration": 40,
+                "x": 0,
+                "y": 3
+            }
+        ],
+        "loop": true,
+        "activation": {
+            "combo": [
+                "SELECT",
+                "R1"
+            ]
+        }
+    }
+]
